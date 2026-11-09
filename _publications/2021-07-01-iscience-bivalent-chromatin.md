@@ -7,5 +7,5 @@ excerpt: "A mathematical framework revealing how histone modifications shape biv
 date: 2021-07-01
 venue: "iScience"
 paperurl: 'https://doi.org/10.1016/j.isci.2021.102732'
-citation: "<strong>Zhao, W.</strong>, Qiao, L., Yan, S., Nie, Q., and Zhang, L. (2021). \"Mathematical modeling of histone modifications reveals the formation mechanism and function of bivalent chromatin.\" <i>iScience</i> 24(7), 102732."
+citation: "Zhao, W., <strong>Qiao, L.</strong>, Yan, S., Nie, Q., and Zhang, L. (2021). \"Mathematical modeling of histone modifications reveals the formation mechanism and function of bivalent chromatin.\" <i>iScience</i> 24(7), 102732."
 ---
