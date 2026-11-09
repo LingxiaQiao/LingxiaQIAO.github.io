@@ -1,4 +1,3 @@
-
 ---
 title: "The evolution of systems biology and systems medicine: From mechanistic models to uncertainty quantification"
 collection: publications
