@@ -1,4 +1,3 @@
-
 ---
 title: "Nanoscale Architecture Can Control Cellular Function"
 collection: publications
