@@ -1,4 +1,3 @@
-
 ---
 title: "Coactivation of antagonistic genes stabilizes polarity patterning during shoot organogenesis"
 collection: publications
