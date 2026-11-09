@@ -1,4 +1,3 @@
-
 ---
 title: "Systems modelling of mitochondrial dynamics in different exercise regimes"
 collection: publications
