@@ -1,4 +1,3 @@
-
 ---
 title: "A eukaryotic circuit for secretion-coupled cellular autonomy"
 collection: publications
