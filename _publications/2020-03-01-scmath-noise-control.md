@@ -7,5 +7,5 @@ excerpt: "A review on noise control and its role in spatial patterning across bi
 date: 2020-03-01
 venue: "Science China Mathematics"
 paperurl: 'https://doi.org/10.1007/s11425-019-1633-1'
-citation: "Nie, Q., Qiao, L., Qiu, Y., Zhang, L., and <strong>Zhao, W.</strong> (2020). \"Noise control and utility: from regulatory network to spatial patterning.\" <i>Science China Mathematics</i> 63, 425–440."
+citation: "Nie, Q., <strong>Qiao, L.</strong>, Qiu, Y., Zhang, L., and Zhao, W. (2020). \"Noise control and utility: from regulatory network to spatial patterning.\" <i>Science China Mathematics</i> 63, 425–440."
 ---
