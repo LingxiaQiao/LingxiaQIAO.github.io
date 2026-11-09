@@ -1,4 +1,3 @@
-
 ---
 title: "Connexin 43-Enriched Vesicles Improve Synchronization in hiPSC-Derived Cardiomyocytes"
 collection: publications
